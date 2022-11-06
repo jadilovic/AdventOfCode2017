@@ -8,6 +8,6 @@ object Main {
 
     InverseCaptcha.run()
     CorruptionChecksum.run()
-
+    HighEntropyPassphrases.run()
   }
 }
